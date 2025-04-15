@@ -18,6 +18,6 @@ This project consisted of a PowerBI dashboard created to assess a manufacturing 
 
 ## Author
 - <b>Carlos Sette</b>]
-- <b>[LinkedIn][(https://www.linkedin.com/in/tusharaggarwalinseec/)](https://www.linkedin.com/in/carlos-sette/)</b>
+- <b>[LinkedIn][(https://www.linkedin.com/in/carlos-sette/)](https://www.linkedin.com/in/carlos-sette/)</b>
 
  
