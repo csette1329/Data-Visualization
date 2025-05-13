@@ -10,17 +10,42 @@ This project consisted of a PowerBI dashboard created to assess a manufacturing 
 
 
 
-### Preview
+
 ![maturity](https://github.com/user-attachments/assets/d2c73c6c-dc2a-4e0a-bd0b-dc205a6453ac)
 
 
 ## [Project 2] MovieLens dataset visualization (Tableau)
+
 This project consisted of a Tableau dashboard to visualize the ratings distribution in the MovieLens dataset (https://grouplens.org/datasets/movielens/latest/).
 
-
-
-### Preview
 ![GIF_Tableau](https://github.com/user-attachments/assets/14d9666f-d88e-4a00-a854-6d28a30645fe)
+
+
+## [Project 3] Periodic Table of Elements Views
+This project consisted of previews on Python and Orange of data from Periodic table of Elements.
+
+<b>Correlation Matrix<b>
+Useful for checking if two variables are correlated.
+
+![image](https://github.com/user-attachments/assets/f7273ca6-a151-4e5c-937c-7e36b7e434be)
+
+<b>MDS (Multi-Dimensional Scaling)<b>
+Data Visualization of multiple variables (features) by reducing dimensions.
+
+![gif](https://github.com/user-attachments/assets/bb3bf54c-a303-44a2-8a81-929287869ba5)
+
+
+<b>Parallel Bars<b>
+Data Visualization of multiple features simultaneously. 
+
+![gif](https://github.com/user-attachments/assets/5152304c-b838-4949-8b40-8d5937a1bc19)
+
+
+<b>Scatterplot Matrix<b>
+Comparing how pairs of variables may influence each other.
+
+![image](https://github.com/user-attachments/assets/9bc640d2-2c8d-482b-991f-92c4f854f871)
+
 
 
 
